@@ -1,0 +1,24 @@
+{
+  "name": "design-patterns.typescript",
+  "version": "1.0.0",
+  "description": "Design patterns and algorithms using Typescript programming language",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/venkat-krish/typescript.algos.git"
+  },
+  "keywords": [
+    "Typescript",
+    "Design patterns",
+    "Data structures"
+  ],
+  "author": "Venkataramanan K",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/venkat-krish/typescript.algos/issues"
+  },
+  "homepage": "https://github.com/venkat-krish/typescript.algos#readme"
+}
